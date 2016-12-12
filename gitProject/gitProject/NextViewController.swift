@@ -12,13 +12,17 @@ class NextViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print(333)
+        
         // Do any additional setup after loading the view.
+    }
+    func creat(){
+        print(111111)
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+        
     }
     
 
